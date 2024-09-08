@@ -1,0 +1,14 @@
+# YOLOv8 and Ultralytics
+ultralytics
+
+# For video capture and processing
+opencv-python-headless
+
+# For audio playback
+pygame
+
+# Optional: For specific PyTorch version compatibility
+torch
+
+# Optional: For numpy which might be required for various operations
+numpy

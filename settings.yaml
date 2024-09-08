@@ -1,0 +1,12 @@
+# Ultralytics settings.yaml
+
+# Dataset download directory
+dataset_directory: Fire100/datasets
+
+# Other possible settings
+# These can be adjusted based on your preferences or needs
+
+# Example: 
+# log_level: info
+# cache_dir: C:/Users/12/Desktop/Branding/cache
+# save_dir: C:/Users/12/Desktop/Branding/runs
